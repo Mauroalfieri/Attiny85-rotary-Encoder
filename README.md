@@ -20,4 +20,6 @@ You can buy the PCB only on [Tindie][https://www.tindie.com/products/18765/]
 
 [https://www.tindie.com/products/18765/]: https://www.tindie.com/products/18765/ "Tindie"
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td6SwkYh9AQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figure class="video_container">
+<iframe src="https://www.youtube.com/embed/td6SwkYh9AQ" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
